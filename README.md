@@ -1,18 +1,16 @@
-# Flutter Authentication System with Firebase
+# registration_and_login_screens_with_firebase_authentication
 
-## Description
-This is a Flutter-based login authentication system that uses **Firebase Authentication** to securely manage user credentials. The app consists of three screens: Login, Signup, and Home, providing a seamless experience for users to sign up, log in, and access a personalized home screen. 
+A new Flutter project.
 
-The project emphasizes security, smooth navigation, and proper validation mechanisms, ensuring an excellent user experience.
+## Getting Started
 
-## Features
-- **Login Authentication**: Secure login functionality using Firebase.
-- **Signup Form**: Users can create a new account with proper validation for email and password strength.
-- **Home Screen**: Personalized home screen with user information upon successful login.
-- **Logout**: User can log out and be redirected to the login screen.
-- **Persistent Login**: Users remain logged in even after closing and reopening the app (using SharedPreferences).
-- **Responsive UI**: Designed for smooth and responsive interaction across different screen sizes.
+This project is a starting point for a Flutter application.
 
-## Installation
+A few resources to get you started if this is your first Flutter project:
 
-1. **Clone the repository**:
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
