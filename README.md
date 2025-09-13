@@ -15,16 +15,6 @@ This project demonstrates how to build secure and responsive authentication flow
 
 ---
 
-## 📸 Screenshots  
-
-<p align="center">
-  <!-- Replace these links with your actual uploaded screenshots -->
-  <img src="https://github.com/user-attachments/assets/example1.png" width="300" alt="Registration Screen">
-  <img src="https://github.com/user-attachments/assets/example2.png" width="300" alt="Login Screen">
-</p>  
-
----
-
 ## 🛠️ Tech Stack  
 - **Framework:** Flutter  
 - **Language:** Dart  
@@ -53,3 +43,4 @@ flutter pub get
 
 # Run the app
 flutter run  
+
